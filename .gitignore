@@ -27,4 +27,6 @@ coverage/
 # Ignore autocommit program
 autocommit*
 
+# ignore weblink
+*.webloc
 
